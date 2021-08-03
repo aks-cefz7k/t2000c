@@ -4,6 +4,8 @@
 a voice wave view library
 一个音频条形图的view,支持柱状音频，折线音频的样式
 
+[https://github.com/xfans/VoiceWaveView](https://github.com/xfans/VoiceWaveView)
+
 ## Screenshot
 ![Screenshot2](pic/3.gif)![Screenshot1](pic/1.gif)
 
